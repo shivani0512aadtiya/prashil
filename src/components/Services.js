@@ -11,8 +11,9 @@ export const Services = () => {
                 {/* <i className="fa fa-3x fa-user-tie text-primary mb-4"></i> */}
                 <h5>Exquisite Spices</h5>
                 <p>
-                  Exquisitely curated spices embodying natural quality and
-                  flavorful richness.
+                Exquisitely Curated Spices: Capturing natural quality and
+                    flavorful richness, each spice blend is meticulously curated
+                    for a delightful culinary experience.
                 </p>
               </div>
             </div>
@@ -20,11 +21,11 @@ export const Services = () => {
           <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
             <div className="service-item rounded pt-3">
               <div className="p-4">
-                {/* <i className="fa fa-3x fa-utensils text-primary mb-4"></i> */}
                 <h5>Modern Agriproducts</h5>
                 <p>
-                  Innovative agriproducts for enhanced farming productivity and
-                  sustainability.
+                Innovative Agriproducts: Boosting farming productivity
+                    sustainably with advanced solutions, blending technology for
+                    efficient, eco-friendly results.
                 </p>
               </div>
             </div>
@@ -32,11 +33,11 @@ export const Services = () => {
           <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
             <div className="service-item rounded pt-3">
               <div className="p-4">
-                {/* <i className="fa fa-3x fa-cart-plus text-primary mb-4"></i> */}
                 <h5>Healthful Edible Oils</h5>
                 <p>
-                  Pure and nourishing edible oils for a healthier lifestyle,
-                  rich in essential nutrients and natural goodness.
+                Pure and Nourishing Edible Oils: Elevating your lifestyle
+                    with wholesome oils, packed with essential nutrients and
+                    pure natural goodness for a healthier you.
                 </p>
               </div>
             </div>
@@ -44,19 +45,20 @@ export const Services = () => {
           <div className="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
             <div className="service-item rounded pt-3">
               <div className="p-4">
-                {/* <i className="fa fa-3x fa-headset text-primary mb-4"></i> */}
-                <h5>Cold-pressed</h5>
-                {/* <h5>Pure Extraction Oils</h5> */}
-                {/* <p>Discover Unmatched Excellence in Every Drop of Our Premium Extraction Oils.</p> */}
+                <h5>Handicraft Products</h5>
                 <p>
-                  Cold-pressed oils: maximum nutrients, freshness, and health
-                  benefits.
+                  Indian Handicrafts: Exquisite, handcrafted items made by
+                  skilled artisans, reflecting India's rich cultural heritage
+                  and craftsmanship.
                 </p>
               </div>
             </div>
           </div>
         </div>
-        <div className="box service-item col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+        <div
+          className="box service-item col-lg-3 col-sm-6 wow fadeInUp"
+          data-wow-delay="0.1s"
+        >
           <h3>Exquisite Spices</h3>
           <p className="p-text">
             Exquisite spices are premium seasonings that significantly enhance
